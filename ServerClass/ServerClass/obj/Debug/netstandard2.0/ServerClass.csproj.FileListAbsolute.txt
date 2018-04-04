@@ -1,0 +1,8 @@
+C:\Users\azhang\Desktop\ServerClass\ServerClass\bin\Debug\netstandard2.0\ServerClass.deps.json
+C:\Users\azhang\Desktop\ServerClass\ServerClass\bin\Debug\netstandard2.0\ServerClass.dll
+C:\Users\azhang\Desktop\ServerClass\ServerClass\bin\Debug\netstandard2.0\ServerClass.pdb
+C:\Users\azhang\Desktop\ServerClass\ServerClass\obj\Debug\netstandard2.0\ServerClass.csproj.CoreCompileInputs.cache
+C:\Users\azhang\Desktop\ServerClass\ServerClass\obj\Debug\netstandard2.0\ServerClass.AssemblyInfoInputs.cache
+C:\Users\azhang\Desktop\ServerClass\ServerClass\obj\Debug\netstandard2.0\ServerClass.AssemblyInfo.cs
+C:\Users\azhang\Desktop\ServerClass\ServerClass\obj\Debug\netstandard2.0\ServerClass.dll
+C:\Users\azhang\Desktop\ServerClass\ServerClass\obj\Debug\netstandard2.0\ServerClass.pdb
